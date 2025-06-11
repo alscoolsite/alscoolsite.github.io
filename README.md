@@ -2,7 +2,9 @@
 <head>
 </head>
 <body>
-<h1>Welcome to Al's Cool Site!</h1>    
+<title>Welcome to Al's Cool Site!</title> 
   <p>The only website run by Al.</p>
+   <h1>What will I find here?</h1>
+  <p>Projects and things I am working on abound on Al's cool site.</p>
 </body>
 </html>
